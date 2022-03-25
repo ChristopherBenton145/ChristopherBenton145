@@ -4,6 +4,8 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ChristopherBenton145&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
+<h2 align="center">Technology Stack</h2>
+
 <p align="center">
  <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
