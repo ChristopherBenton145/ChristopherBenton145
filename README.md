@@ -12,3 +12,14 @@
   <img src="https://badges.pufler.dev/repos/ChristopherBenton145"/>
   <img src="https://badges.pufler.dev/commits/monthly/ChristopherBenton145" />
 </p>
+
+<h2 align="center">Skills</h2>
+<p align = "center">
+  <h2 align="center">Techni</h2>
+  Technical Skills: HTML, CSS, Sass, JavaScript, React.js, Node.js, JSON Tools: Github, Git, MongoDB
+</p>
+
+<h2 align="center">Social Media</h2>
+<p align = "center">
+  
+</p>
