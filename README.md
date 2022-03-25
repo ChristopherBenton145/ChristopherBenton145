@@ -22,6 +22,4 @@
 <br />
 
 <h2 align="center">Social Media</h2>
-<p align = "center">
-  
-</p>
+<p align="center">Portfolio: https://personal-website266425.netlify.app</p>
