@@ -1,8 +1,6 @@
-<img src="https://github.com/ChristopherBenton145/ChristopherBenton145/blob/main/images/github-background.gif" />
-
-<!-- <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2> -->
+<p align = "center">
+  <img src="https://github.com/ChristopherBenton145/ChristopherBenton145/blob/main/images/github-background.gif" />
+</p>
  
 <br>
 
