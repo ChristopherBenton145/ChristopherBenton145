@@ -1,6 +1,10 @@
 <p align = "center">
   <img src="https://github.com/ChristopherBenton145/ChristopherBenton145/blob/main/images/github-background.gif" />
 </p>
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ChristopherBenton145&theme=redical">
+</p> 
  
 <br>
 
@@ -11,8 +15,4 @@
 
 <p align = "center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ChristopherBenton145&theme=redical">
 </p> 
