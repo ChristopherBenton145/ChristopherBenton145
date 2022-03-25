@@ -26,4 +26,4 @@
 <p align="center">LinkedIn: <a href="https://www.linkedin.com/in/christopher-benton-78889822a/">https://www.linkedin.com/in/christopher-benton-78889822a/<a/></p>
 <p align="center">Github: <a href="https://github.com/ChristopherBenton145">https://github.com/ChristopherBenton145<a/></p>
 <p align="center">Stack Overflow: <a href="https://stackoverflow.com/users/17382115/temp">https://stackoverflow.com/users/17382115/temp<a/></p>
-<p align="center">Email: <a href="c.benton.145@gmail.com">c.benton.145@gmail.com<a/></p>
+<p align="center">Email: <a href="mailto: c.benton.145@gmail.com">c.benton.145@gmail.com<a/></p>
