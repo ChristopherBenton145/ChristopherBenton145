@@ -1,5 +1,5 @@
 <!-- <p align="center"> -->
-  <img src="https://github.com/ChristopherBenton145/ChristopherBenton145/blob/main/images/github-background.gif" />
+  <img align="center" src="https://github.com/ChristopherBenton145/ChristopherBenton145/blob/main/images/github-background.gif" />
 <!-- </p> -->
 
 <h2 align="center">Github Stats</h2>
