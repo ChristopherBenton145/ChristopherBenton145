@@ -17,6 +17,7 @@
 <p align = "center">
   <h3 align="center">Technical Skills</h3>
   <p align="center">HTML, CSS, Sass, JavaScript, React.js, Node.js, JSON</p>
+  <br />
   <h3 align="center">Tools</h3>
   <p align="center">Github, Git, MongoDB</p>
 </p>
