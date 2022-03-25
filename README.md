@@ -22,8 +22,9 @@
 <br />
 
 <h2 align="center">Social Media</h2>
-<p align="center">Portfolio: <a target="https://personal-website266425.netlify.app">https://personal-website266425.netlify.app</a></p>
+<p align="center">Portfolio: <a href="https://personal-website266425.netlify.app">S<a/>https://personal-website266425.netlify.app</p>
 <p align="center">LinkedIn: https://personal-website266425.netlify.app</p>
 <p align="center">Github: https://personal-website266425.netlify.app</p>
 <p align="center">Stack Overflow: https://personal-website266425.netlify.app</p>
 <p align="center">c.benton.145@gmail.com</p>
+<a href=""></a>
