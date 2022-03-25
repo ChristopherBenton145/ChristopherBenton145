@@ -16,11 +16,8 @@
 <br />
 
 <h2 align="center">Skills</h2>
-<p align="center">
-<!--   <h3 align="center">Technical Skills</h3> -->
-  <p>Technical Skills: HTML, CSS, Sass, JavaScript, React.js, Node.js, JSON</p>
-  <p>Tools: Github, Git, MongoDB</p>
-</p>
+<p align="center">Technical Skills: HTML, CSS, Sass, JavaScript, React.js, Node.js, JSON</p>
+<p align="center">Tools: Github, Git, MongoDB</p>
 
 <br />
 
