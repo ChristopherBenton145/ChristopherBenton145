@@ -26,4 +26,4 @@
 <p align="center">LinkedIn: https://personal-website266425.netlify.app</p>
 <p align="center">Github: https://personal-website266425.netlify.app</p>
 <p align="center">Stack Overflow: https://personal-website266425.netlify.app</p>
-<p align="center">Email: c.benton.145@gmail.com</p>
+<p align="center">c.benton.145@gmail.com</p>
