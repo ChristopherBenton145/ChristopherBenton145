@@ -8,7 +8,7 @@
   <br />
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ChristopherBenton145&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
   </br />
-  <img src="https://badges.pufler.dev/visits/ChristopherBenton145/ChristopherBenton145"/> 
-  <img src="https://badges.pufler.dev/years/ritik307"/>
-  <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+  <img src="https://badges.pufler.dev/visits/ChristopherBenton145/ChristopherBenton145"/>
+  <img src="https://badges.pufler.dev/repos/ChristopherBenton145"/>
+  <img src="https://badges.pufler.dev/commits/monthly/ChristopherBenton145" />
 </p>
