@@ -1,6 +1,6 @@
-<!-- <p align="center"> -->
-  <img align="center" src="https://github.com/ChristopherBenton145/ChristopherBenton145/blob/main/images/github-background.gif" />
-<!-- </p> -->
+<h1 align="center">
+  <img src="https://github.com/ChristopherBenton145/ChristopherBenton145/blob/main/images/github-background.gif" />
+</h1>
 
 <h2 align="center">Github Stats</h2>
 <p align="center">
