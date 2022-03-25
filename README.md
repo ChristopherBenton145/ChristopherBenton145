@@ -9,10 +9,11 @@
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=ChristopherBenton145&show_icons=true&theme=radical&line_height=25">
   
+  ![](https://komarev.com/ghpvc/?username=your-github-username&color=ed1a29)
+  
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ChristopherBenton145&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 <!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical"> -->
 </p>
 
 <p align = "center">
-![](https://komarev.com/ghpvc/?username=your-github-username&color=ed1a29)
 </p> 
