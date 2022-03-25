@@ -15,6 +15,6 @@
 
 <p align = "center">
   
-![](https://komarev.com/ghpvc/?username=your-github-username&color=68ed7e)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=cf222e)
   
 </p> 
