@@ -16,11 +16,10 @@
 <br />
 
 <h2 align="center">Skills</h2>
-<p>
+<p align="center">
 <!--   <h3 align="center">Technical Skills</h3> -->
-  <p align="center">Technical Skills: HTML, CSS, Sass, JavaScript, React.js, Node.js, JSON</p>
-  <h3 align="center">Tools</h3>
-  <p align="center">Github, Git, MongoDB</p>
+  <p>Technical Skills: HTML, CSS, Sass, JavaScript, React.js, Node.js, JSON</p>
+  <p>Tools: Github, Git, MongoDB</p>
 </p>
 
 <br />
