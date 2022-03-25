@@ -3,10 +3,6 @@
 </p>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ChristopherBenton145&theme=redical">
-</p> 
-
-<p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=ChristopherBenton145&show_icons=true&theme=radical&line_height=25">
 </p>
 
@@ -15,5 +11,7 @@
 </p>
 
 <p align = "center">
+  
   ![](https://komarev.com/ghpvc/?username=your-github-username&color=ed1a29)
+  
 </p> 
