@@ -14,7 +14,5 @@
 </p>
 
 <p align = "center">
-  
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=ed1a29)
-  
 </p> 
