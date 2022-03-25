@@ -13,14 +13,17 @@
   <img src="https://badges.pufler.dev/commits/monthly/ChristopherBenton145" />
 </p>
 
+<br />
+
 <h2 align="center">Skills</h2>
 <p align = "center">
   <h3 align="center">Technical Skills</h3>
   <p align="center">HTML, CSS, Sass, JavaScript, React.js, Node.js, JSON</p>
-  <br />
   <h3 align="center">Tools</h3>
   <p align="center">Github, Git, MongoDB</p>
 </p>
+
+<br />
 
 <h2 align="center">Social Media</h2>
 <p align = "center">
