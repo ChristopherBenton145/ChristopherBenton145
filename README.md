@@ -15,7 +15,7 @@
 
 <h2 align="center">Skills</h2>
 <p align = "center">
-  <h2 align="center">Techni</h2>
+  <h3 align="center">Techni</h3>
   Technical Skills: HTML, CSS, Sass, JavaScript, React.js, Node.js, JSON Tools: Github, Git, MongoDB
 </p>
 
