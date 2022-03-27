@@ -22,7 +22,7 @@
 <br />
 
 <h2 align="center">Social Media</h2>
-<p align="center">Portfolio: <a>https://christophers-portfolio42.netlify.app<a/>/</p>
+<p align="center">Portfolio: <a href="https://christophers-portfolio42.netlify.app/">https://christophers-portfolio42.netlify.app<a/>/</p>
 <p align="center">LinkedIn: <a href="https://www.linkedin.com/in/christopher-benton-78889822a/">https://www.linkedin.com/in/christopher-benton-78889822a/<a/></p>
 <p align="center">Github: <a href="https://github.com/ChristopherBenton145">https://github.com/ChristopherBenton145<a/></p>
 <p align="center">Stack Overflow: <a href="https://stackoverflow.com/users/17382115/temp">https://stackoverflow.com/users/17382115/temp<a/></p>
