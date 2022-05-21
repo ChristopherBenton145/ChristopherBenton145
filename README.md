@@ -15,11 +15,6 @@
 
 <br />
 
-<h2 align="center">Skills</h2>
-<p align="center">HTML, CSS, Sass, JavaScript, TypeScript, React.js, Node.js, JSON, MongoDB, Firebase, Git</p>
-
-<br />
-
 <h2 align="center">Social Media</h2>
 <p align="center">Portfolio: <a href="https://christophers-portfolio42.netlify.app/">https://christophers-portfolio42.netlify.app<a/>/</p>
 <p align="center">LinkedIn: <a href="https://www.linkedin.com/in/christopher-benton-78889822a/">https://www.linkedin.com/in/christopher-benton-78889822a/<a/></p>
